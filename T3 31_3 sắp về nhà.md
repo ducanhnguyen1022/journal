@@ -1,2 +1,3 @@
 Khoảng 5h20, phát thanh trên tàu thông báo đã đến lúc thức giấc. T ra mạn phải tàu ngắm bình minh. Gió mát lạnh. Đường chân trời hửng sáng, mắt trời như lòng đỏ trứng gà ốp la dần dần nhô ra khỏi những đám mây trắng. 6h kém 10p, mặt trời đã lên cao hẳn, chiếu một vệt sáng vàng lên mặt biển xanh thẫm. 
 6h, nhà bếp thông báo đã tới giờ ăn sáng. Thịt băm, rau cải.
+20h22, đã thấy những chấm sáng nhỏ từ ánh đèn trong đất liền.
