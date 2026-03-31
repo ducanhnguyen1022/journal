@@ -2,3 +2,4 @@ Khoảng 5h20, phát thanh trên tàu thông báo đã đến lúc thức giấc
 6h, nhà bếp thông báo đã tới giờ ăn sáng. Thịt băm, rau cải.
 Khoảng 16h, đã có những tín hiệu chập chờn mạng internet, đã truy cập được mạng
 20h22, đã thấy những chấm sáng nhỏ từ ánh đèn trong đất liền.
+22h, tàu tiến vào trong vịnh, những dãy đồi,  đốm sáng ánh đèn từ vịnh bao quanh hình chữ U
