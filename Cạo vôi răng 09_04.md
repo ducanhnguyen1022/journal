@@ -1,0 +1,1 @@
+Mỗi lần cạo vôi răng về cảm thấy răng mình hơi thưa thưa ra =))
