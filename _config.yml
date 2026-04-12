@@ -7,7 +7,7 @@ description: a minimal, text focused blog theme
 url: "https://ducanhnguyen1022.github.io" # the base hostname & protocol for your site
 baseurl: "/journal"
 # host: 0.0.0.0
-
+theme: jekyll-bear-theme
 
 #########################
 # more settings
