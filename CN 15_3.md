@@ -1,4 +1,0 @@
-Đến navy khách sạn Trường Sa lúc 3g chiều 
-
-
-<a href="https://ibb.co/0p35h6Cm"><img src="https://i.ibb.co/HLQZnbtB/20260315-151728.jpg" alt="20260315-151728" border="0"></a>
