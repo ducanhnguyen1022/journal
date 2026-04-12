@@ -4,5 +4,5 @@ Khoảng 6h45, thuyền nhổ neo, hướng về đảo Trường Sa Lớn.
 14h30p, lên đảo tham quan. Làm lễ tưởng niệm tưởng đài liệt sĩ, đài tưởng niệm chủ tịch Hồ Chí Minh. Thắp hương tại chùa Trường Sa, chùa nằm bên kia so với đường băng sân bay nằm cắt dọc hòn đảo. Tham quan nhà truyền thống. Chụp hình với cột mốc chủ quyền.
 Khoảng 17h, tàu nhổ neo rời Trường Sa.
 <div style="text-align: center;">
-<img src="https://i.ibb.co/CpLhvVyw/20260330-122003.jpg" alt="đảo Trường Sa" style="width: 70%;>
+<img src="https://i.ibb.co/CpLhvVyw/20260330-122003.jpg" alt="dao" style="width: 70%;>
 </div>
