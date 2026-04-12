@@ -1,2 +1,0 @@
-Đã đọc xong cuốn atomic habits - những thói quen nguyên tử. Dịch giả là cô Vũ Phi Yên, giảng viên bộ môn shtb hồi học ĐH.
-Khoảng 17h30, có chiếc tàu màu xám tên Trường Sa 571 đi hình vòng cung theo dòng chảy nước biển từ từ tiến vào đảo. Tàu trông y hệt 561, chỉ khác màu. Tàu nhờ chiếc thuyền bé có mũi màu đen hình như gia cố bằng cao su đẩy phần thân vào sát bến. Nghe nói tàu chở đoàn tham mưu thuộc bộ quốc phòng đi kiểm tra các công trình trên đảo. 

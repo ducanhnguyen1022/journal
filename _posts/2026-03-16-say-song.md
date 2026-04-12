@@ -1,1 +1,0 @@
-Ráng ăn nốt bát cơm, có món cá tủ mà k ăn nổi, xong nôn ra hết ối giời ơi. Uống thêm viên nữa rồi ngủ thôi.
