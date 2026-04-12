@@ -1,1 +1,0 @@
-Buổi chiều, xe tải chở một vòng tham quan đảo Thuyền Chài D, đảo lớn nhất trong cụm đảo Thuyền Chài. Thắp nén hương trong đền thờ Bác Hồ, tham quan Khuông Việt Thiền Tự. Đi trên đường bay, nghe đảo trưởng bảo đạt chuẩn E4, máy bay boeing 747, airbus 350 có thể hạ cánh. Trên đảo có sân pickleball nữa.
