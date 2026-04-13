@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thứ 2 ngày 16/3, ngày đầu tiên trên tàu 561"
+title: "Thứ 2 16/3, ngày đầu tiên trên tàu 561"
 date: 2026-03-16
 ---
 
