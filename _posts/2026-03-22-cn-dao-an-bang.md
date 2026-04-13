@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Chủ Nhật đảo An Bang"
+date: 2026-03-22
+---
 Sau một đêm dập dềnh, sáng dậy tàu đã thả neo. Phía xa là đảo An Bang. Sáng nay sóng lớn, cano chở đội xét nghiệm không vào đảo được nên phải đợi thuyền lớn. Mặc dù vậy, sóng vẫn to, thuyền lớn cập sát mạn trái phía đuôi tàu nhưng vẫn nhấp nhô, không thuận lợi để lên thuyền. Thuyền trưởng cho tàu nhổ neo, tìm vị trí sóng êm hơn. 
 Chiều lên thuyền nhỏ vào thăm đảo An Bang. Sóng dập dềnh làm con thuyền dù đã cập sát mạn tàu nhưng vẫn dao động lên xuống nhiều. Chưa bao giờ lên xuống thuyền mà hồi hộp như này. Tim đập thình thịch. Nhờ sự hỗ trợ của các anh thủy thủ đoàn mà lên tàu an toàn. Di chuyển trên tàu nhỏ sóng đánh lên xuống còn hơn đi bằng cano các đợt trước. Tàu cập đảo An Bàng, bước qua xà lan trên đó chở cát và có một máy xúc, rồi bước vào bờ. 
 Các thành viên trên đảo đứng theo hàng, lần lượt bắt tay chào các thành viên đoàn công tác. Chụp hình cùng cột mốc với các thành viên trên đảo. Tham quan trạm xá, trò chuyện cùng bs quân y trên đảo. 
