@@ -1,0 +1,78 @@
+/* 1. Reset & Typography - Sử dụng font hệ thống cực nhẹ */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #222;
+  background-color: #fff;
+  max-width: 650px; /* Độ rộng hoàn hảo cho việc đọc ghi chú */
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+/* 2. Dark Mode - Tự động chuyển màu theo hệ điều hành */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1a1a1a;
+    color: #e0e0e0;
+  }
+  a { color: #82aaff !important; }
+  blockquote { border-left-color: #444 !important; color: #aaa !important; }
+  code { background-color: #2d2d2d !important; }
+}
+
+/* 3. Tiêu đề và Link */
+h1, h2, h3, h4 {
+  line-height: 1.2;
+  margin-top: 2em;
+}
+
+a {
+  color: #0074de; /* Màu xanh đặc trưng của riggraz */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* 4. Danh sách bài viết ở trang chủ (index.html) */
+article {
+  margin-bottom: 1.5rem;
+}
+
+article header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+time {
+  color: #777;
+  font-size: 0.9rem;
+  font-variant-numeric: tabular-nums; /* Giúp các con số ngày tháng thẳng hàng */
+}
+
+/* 5. Blockquote & Code - Phong cách Zettel Notes */
+blockquote {
+  border-left: 3px solid #eee;
+  padding-left: 1rem;
+  margin-left: 0;
+  color: #555;
+  font-style: italic;
+}
+
+code {
+  background-color: #f4f4f4;
+  padding: 2px 4px;
+  border-radius: 3px;
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+  font-size: 0.9em;
+}
+
+pre {
+  background: #f4f4f4;
+  padding: 1rem;
+  overflow-x: auto;
+  border-radius: 5px;
+}
