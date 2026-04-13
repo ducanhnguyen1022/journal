@@ -7,7 +7,9 @@ plugins:
   - jekyll-remote-theme
   # - jekyll-feed
   # - jekyll-sitemap
-  
+
+robots_noindex: true
+
 # Cấu hình chặn tìm kiếm nếu có dùng jekyll-seo-tag
 seo:
   robot: noindex
