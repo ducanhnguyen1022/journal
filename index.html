@@ -6,7 +6,7 @@ layout: default
   {% for post in site.posts %}
     <div class="post-item" style="margin-bottom: 1rem;">
       <time datetime="{{ post.date | date_to_xmlschema }}" style="color: #666; margin-right: 1rem; font-family: monospace;">
-        {{ post.date | date: "%b %dd, %Y" }}
+        {{ post.date | date: "%b %d, %Y" }}
       </time>
       <a href="{{ post.url | relative_url }}" style="font-weight: bold;">
         {{ post.title }}
