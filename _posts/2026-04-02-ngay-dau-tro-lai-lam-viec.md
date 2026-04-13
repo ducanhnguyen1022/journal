@@ -1,0 +1,1 @@
+Trong khoa ai cũng bảo mình ốm và đen hơn.
