@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+{% for post in site.posts %}
+  <article>
+    <header>
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+      <time datetime="{{ post.date | date_to_xmlschema }}">
+        {{ post.date | date: "%B %-d, %Y" }}
+      </time>
+    </header>
+  </article>
+{% endfor %}
