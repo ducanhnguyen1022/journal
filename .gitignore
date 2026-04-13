@@ -1,0 +1,16 @@
+*.log
+temp/
+# Bỏ qua thư mục kết quả biên dịch
+_site/
+
+# Bỏ qua các file cache của Jekyll
+.jekyll-cache/
+.jekyll-metadata
+
+# Bỏ qua các file cấu hình của trình soạn thảo
+.vscode/
+.idea/
+
+# Bỏ qua file rác của hệ điều hành
+*.DS_Store
+Thumbs.db
