@@ -12,9 +12,4 @@ plugins:
 navigation:
   - { title: "Trang chủ", url: "/" }
   
-defaults:
-  - scope:
-      path: "" # Trống có nghĩa là tất cả các file
-      type: "posts"
-    values:
-      layout: "post"
+
