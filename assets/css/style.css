@@ -1,7 +1,3 @@
-body {
-    font-family: "Charter", "Georgia", serif; /* Font chữ có chân giúp đọc nội dung dài dễ hơn */
-}
-
 /* 1. Reset & Typography - Sử dụng font hệ thống cực nhẹ */
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
