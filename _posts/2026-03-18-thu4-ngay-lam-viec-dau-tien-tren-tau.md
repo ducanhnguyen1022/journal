@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "T4 18/3 ngày làm việc đầu tiên trên tàu"
+title: "Thứ 4 18/3 ngày làm việc đầu tiên trên tàu"
 date: 2026-03-18
 ---
 Ngày làm việc đầu tiên chính thức tại đảo Đá Lát
