@@ -5,9 +5,13 @@ remote_theme: riggraz/no-style-please
 # Các plugin cần thiết để chạy trên GitHub Pages
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-sitemap
-
+  # - jekyll-feed
+  # - jekyll-sitemap
+  
+# Cấu hình chặn tìm kiếm nếu có dùng jekyll-seo-tag
+seo:
+  robot: noindex
+  
 # Cấu hình menu điều hướng (Tùy chỉnh theo ý bạn)
 navigation:
   - { title: "Trang chủ", url: "/" }
