@@ -1,0 +1,7 @@
+--- old
++++ new
+@@ -2,1 +2,3 @@
+-<img src="https://i.ibb.co/CKqHt9kF/H-ooo-y.jpg" alt="hooooday" style="width: 60%;">
++<center>
++<img src="https://i.ibb.co/CKqHt9kF/H-ooo-y.jpg" alt="hooooday" style="width: 60%; display: block; margin-left: auto; margin-right: auto;">
++</center>
