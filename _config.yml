@@ -53,3 +53,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+google_site_verification: ""
+bing_site_verification: ""
+robots: noindex
